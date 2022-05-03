@@ -7,11 +7,12 @@ Connections:
 DHT11: 12
 Heating device: 0
 Cooling device: 1
+(all digital pins)
 
 Details:
-Platfrom: nRF52833
+Platfrom: atmelavr
 Framework: Arduino
-Board: micro:bit
+Board: Arduino UNO
 */
 
 #include <Arduino.h>
