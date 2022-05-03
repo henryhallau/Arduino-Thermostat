@@ -24,7 +24,7 @@ If you wish to change which pins the heating/cooling devices are on, just find t
 const int heatPin = 0;  
 const int coolPin = 1;
 
-And change the pins respectively.
+And change the pins respectively.  
 To change the pin of which the DHT11 sensor is on, or the DHT Type, just edit these lines of code respectively:
 
 #define DHTPIN 12
