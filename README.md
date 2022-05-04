@@ -1,6 +1,6 @@
 # Arduino Thermostat
 
-Source Code written by Henry Hall.
+Source Code written by Henry
 
 # How To Upload:
 
